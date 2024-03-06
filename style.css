@@ -44,6 +44,7 @@ h1 {
 
 #calc-word {
   border: 1px solid black;
+  font-size: 18px;
   font-variant: small-caps;
   font-weight: bold;
 }
